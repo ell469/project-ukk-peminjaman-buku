@@ -1,0 +1,2 @@
+ALTER TABLE buku
+    MODIFY kategori_id INT(10) UNSIGNED NULL;

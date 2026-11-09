@@ -1,0 +1,2 @@
+ALTER TABLE buku
+    MODIFY penerbit_id INT(10) UNSIGNED NULL;
